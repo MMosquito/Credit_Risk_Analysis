@@ -37,4 +37,8 @@ The purpose of the Credit Risk Analysis is to help predict credit card risk usin
 
     
 
-## Summary (Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.)
+## Summary 
+
+The results of the machine learning models conclude that the Undersampling is the least accurate score at 53%.  The model most most accurate is the Easy Ensemble AdaBoost Classifier at 93%. 
+
+
