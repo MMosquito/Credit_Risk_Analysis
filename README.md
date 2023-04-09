@@ -1,1 +1,31 @@
 # Credit_Risk_Analysis
+
+## Overview
+
+The purpose of the Credit Risk Analysis is to help predict credit card risk using a credit card dataset from a peer-to-peer lending services company named LendingClub. The various machine learning models used were Oversampling (Naive Random Oversampling, SMOTE Oversampling), Undersampling, and a Combination (Over and Under) Sampling.
+
+
+## Results (Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.)
+
+### Naive Random Sampling
+    *64% (0.6398437216722869
+    *<img width="561" alt="NaiveRandomSamplingAccScore" src="https://user-images.githubusercontent.com/14171474/230792952-b1132b7d-f04d-4f20-a997-01abf185f815.png">
+
+    
+### SMOTE Oversampling
+    *62% (0.6216172933512213)
+    *<img width="577" alt="SMOTEOversamplingAccScore" src="https://user-images.githubusercontent.com/14171474/230792965-959758a8-6a9d-458c-8332-c82bdb3430e8.png">
+
+    
+### Undersampling
+    *53% (0.5293026900499977)
+    *<img width="576" alt="UndersamplingAccScore" src="https://user-images.githubusercontent.com/14171474/230792974-573c30a2-156b-4543-b9a5-c84262b72015.png">
+
+    
+### Combination (Over and Under) Sampling
+    *64% (0.6357786318898034)
+    *<img width="598" alt="CombinationAccScore" src="https://user-images.githubusercontent.com/14171474/230792978-0d070e4e-1f77-4385-9c81-52224480af1b.png">
+
+    
+
+## Summary (Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.)
